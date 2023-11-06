@@ -1,0 +1,64 @@
+
+.bg_white {
+    -webkit-box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.1);
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.1);
+    background-color: #FFF;
+}
+
+.text_cream{
+    color: #E4C7B7;
+}
+.text_maroon{
+    color: #490000;
+}
+
+.bg_cream{
+    background: #E4C7B7;
+}
+.bg_maroon{
+   background: #490000;
+   color: #E4C7B7;
+}
+
+.sidebar {
+    height: 60vh;
+    top: 0;
+    left: 0;
+    padding: 5px;
+    height: 100vh;
+    color: white;
+    float: left;
+    width: 20%;
+    position: fixed;
+    top: 0;
+    overflow-y: auto;
+    left: 0;
+    bottom: 0;
+    padding: 40px 20px 20px 20px;
+    z-index: 999;
+
+}
+ul {
+    list-style: none;
+    padding: 8px;
+}
+
+ul li {
+    padding: 8px;
+    margin-left: 30px;
+    font-size: 1.3rem;
+}
+
+.topbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    padding-left: 250px;
+    right: 0;
+}
+
+.dashboard {
+    margin-left: 300px;
+    margin-top: 5%;
+}

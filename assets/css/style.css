@@ -1,0 +1,21 @@
+
+.bg_white {
+    -webkit-box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.1);
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.1);
+    background-color: #FFF;
+}
+
+.text_cream{
+    color: #E4C7B7;
+}
+.text_maroon{
+    color: #490000;
+}
+
+.bg_cream{
+    background: #E4C7B7;
+}
+.bg_maroon{
+   background: #490000;
+}
+
